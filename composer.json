@@ -1,5 +1,5 @@
 {
-    "name": "felipe/faculdade",
+    "name": "rafael/trabalho",
     "autoload": {
         "psr-4": {
 	    "App\\": "app/",
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "Felipe Figueiredo",
-            "email": "felipefigueiredosal@gmail.com"
+            "name": "Rafael Arend",
+            "email": "rafinhaarend123@hotmail.com"
         }
     ],
     "require": {
