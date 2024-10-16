@@ -1,0 +1,20 @@
+{
+    "name": "felipe/faculdade",
+    "autoload": {
+        "psr-4": {
+	    "App\\": "app/",
+            "Felipe\\Faculdade\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Figueiredo",
+            "email": "felipefigueiredosal@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "bramus/router": "1.6",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
